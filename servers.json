@@ -58,4 +58,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+  },
+  {
+    "name": "frxffr",
+    "address": "https://anisette-v3-server-sp35.onrender.com"
 }
